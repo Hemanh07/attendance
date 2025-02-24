@@ -16,29 +16,7 @@ const Header = () => {
             <h1>
                 PSG iTech - Attendance Monitor
             </h1>
-            <nav>
-                <ul className={styles["nav-links"]}>
 
-                    <li>
-                        <a
-                            href="#"
-                        >
-                            Home
-                        </a>
-                    </li>
-
-
-
-                    <li>
-                        <a
-                            href="contact"
-                        >
-                            Contact Us
-                        </a>
-                    </li>
-
-                </ul>
-            </nav>
         </header>
     )
 }

@@ -1,5 +1,4 @@
-import { Children } from "react";
-
+  
 export const viewList = [
   {
     title: "DEPARTMENT OF CSE",
